@@ -1,4 +1,4 @@
-Este é um projeto backend desenvolvido em java com o framework swing 
+Este é um projeto backend desenvolvido em java com o framework Spring 
 
 COMO USAR
 
